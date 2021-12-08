@@ -1,0 +1,15 @@
+D:\MeusProjetos\dotnet-fundamentals\DigitalInnovationOne\bin\Debug\net6.0\DigitalinnovationOne.exe
+D:\MeusProjetos\dotnet-fundamentals\DigitalInnovationOne\bin\Debug\net6.0\DigitalinnovationOne.deps.json
+D:\MeusProjetos\dotnet-fundamentals\DigitalInnovationOne\bin\Debug\net6.0\DigitalinnovationOne.runtimeconfig.json
+D:\MeusProjetos\dotnet-fundamentals\DigitalInnovationOne\bin\Debug\net6.0\DigitalinnovationOne.dll
+D:\MeusProjetos\dotnet-fundamentals\DigitalInnovationOne\bin\Debug\net6.0\ref\DigitalinnovationOne.dll
+D:\MeusProjetos\dotnet-fundamentals\DigitalInnovationOne\bin\Debug\net6.0\DigitalinnovationOne.pdb
+D:\MeusProjetos\dotnet-fundamentals\DigitalInnovationOne\obj\Debug\net6.0\DigitalinnovationOne.csproj.AssemblyReference.cache
+D:\MeusProjetos\dotnet-fundamentals\DigitalInnovationOne\obj\Debug\net6.0\DigitalinnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeusProjetos\dotnet-fundamentals\DigitalInnovationOne\obj\Debug\net6.0\DigitalinnovationOne.AssemblyInfoInputs.cache
+D:\MeusProjetos\dotnet-fundamentals\DigitalInnovationOne\obj\Debug\net6.0\DigitalinnovationOne.AssemblyInfo.cs
+D:\MeusProjetos\dotnet-fundamentals\DigitalInnovationOne\obj\Debug\net6.0\DigitalinnovationOne.csproj.CoreCompileInputs.cache
+D:\MeusProjetos\dotnet-fundamentals\DigitalInnovationOne\obj\Debug\net6.0\DigitalinnovationOne.dll
+D:\MeusProjetos\dotnet-fundamentals\DigitalInnovationOne\obj\Debug\net6.0\ref\DigitalinnovationOne.dll
+D:\MeusProjetos\dotnet-fundamentals\DigitalInnovationOne\obj\Debug\net6.0\DigitalinnovationOne.pdb
+D:\MeusProjetos\dotnet-fundamentals\DigitalInnovationOne\obj\Debug\net6.0\DigitalinnovationOne.genruntimeconfig.cache
